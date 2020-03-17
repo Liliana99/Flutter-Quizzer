@@ -17,7 +17,7 @@ Review Stateful and Stateless Widgets as well as the fundamental building blocks
 ## What it's Quizzer?
 
 Is a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores,!!
-![Finished App](quizzer.gif)
+![Finished App](quizzer_completo.gif)
 
 ## What I've learn?
 
