@@ -5,7 +5,7 @@
 
 ## What does this Flutter App?
 
-Review Stateful and Stateless Widgets as well as the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
+Manage Stateful and Stateless Widgets as well as the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
 
 ## Which packages Dart I've used to build it?
 
@@ -17,6 +17,9 @@ Review Stateful and Stateless Widgets as well as the fundamental building blocks
 ## What it's Quizzer?
 
 Is a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores,!!
+
+
+
 ![Finished App](quizzer_completo.gif)
 
 ## What I've learn?
